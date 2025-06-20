@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.surflinekotlin">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application>
+        <!-- If your library has activities, services, etc., declare them here -->
+        <!-- For a pure Kotlin library, this might be empty or not present if it doesn't need app components -->
+    </application>
+
+</manifest>
